@@ -13,3 +13,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zealtrax101&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=160a33">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zealtrax101&layout=compact&bg_color=160a33&text_color=daf7dc&title_color=ffffff">
