@@ -8,7 +8,7 @@
  or [Mail](mailto:shaikhmubashirr@gmail.com) me.
 - ⚡ Fun fact: U can code programs using just whitespaces.
 - 🎭 Hobbies:🎶Music & 📸Photography.
-- <br>
+<br>
 <h2> Skills💡</h2>
 <div>
 <img src="https://camo.githubusercontent.com/528c747b822ad5b408176ad29cc08224eb4ce7cc578e8033967f64223f594f8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d63">
