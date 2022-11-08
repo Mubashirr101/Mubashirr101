@@ -11,15 +11,9 @@
 <br>
 <h2> Skills💡</h2>
 <div>
-<img src="https://camo.githubusercontent.com/528c747b822ad5b408176ad29cc08224eb4ce7cc578e8033967f64223f594f8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d63">
-<img src="https://camo.githubusercontent.com/e80a222eef8c7abb81f9c0a4521efd756c2bc562af41e5ffce2004be1eb12482/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35">
-<img src="https://camo.githubusercontent.com/5039762ad01157a36915df71595284f6f0bba77c42787035b62afc06ecf45676/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333">
-
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p
  
- 
-<img src="https://camo.githubusercontent.com/e9069299d120da1f7b62c0456cc049795af4245963078c8c8e47745d2f82744b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d532532304f66666963652d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365">
-
- </div>
+</div>
 <br>
 
 
