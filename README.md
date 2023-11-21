@@ -59,6 +59,6 @@
 
 
 <h2> Stats📊 </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Zealtrax101&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=160a33">
+<img src="https://github-readme-stats.vercel.app/api?username=Mubashirr101&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=160a33">
 <h2> Top Languages🌐 </h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zealtrax101&layout=compact&bg_color=160a33&text_color=ffffff&title_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashirr101&layout=compact&bg_color=160a33&text_color=ffffff&title_color=ffffff">
