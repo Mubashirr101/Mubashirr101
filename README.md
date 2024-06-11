@@ -6,7 +6,6 @@
 - 🧑🏻‍💻 I’m currently learning Software Development & Data Science.
 - 📫 How to reach me: Contact me on [LinkedIn](https://www.linkedin.com/in/ShaikhMubashir)
  or [Mail](mailto:shaikhmubashirr@gmail.com) me.
-- ⚡ Fun fact: U can code programs using just whitespaces.
 - 🎭 Hobbies: 📸Photography & 🎨Design
 <br>
 <h2>Skills💡</h2>
