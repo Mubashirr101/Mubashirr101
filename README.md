@@ -6,7 +6,7 @@
 - 🧑🏻‍💻 I’m currently learning Software Development & Data Science.
 - 📫 How to reach me: Contact me on [LinkedIn](https://www.linkedin.com/in/ShaikhMubashir)
  or [Mail](mailto:shaikhmubashirr@gmail.com) me.
-- 🎭 Hobbies: 📸Photography & 🎨Design
+- 🎭 Hobbies: Photography & Graphic Designing
 <br>
 <h2>Skills💡</h2>
 <div>
