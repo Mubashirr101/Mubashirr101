@@ -4,7 +4,7 @@
 
 - 🔧 Just working on my Programming Skills.
 - 🧑🏻‍💻 I’m currently learning Software Development & Data Science.
-- 📫 How to reach me: Contact me on [LinkedIn](https://www.linkedin.com/in/ShaikhMubashir)
+- 📫 How to reach me: Follow me on [Twitter](https://x.com/skmubashirrr)
  or [Mail](mailto:mubashirshaikh1666@gmail.com) me.
 - 🎭 Hobbies: [Photography](https://vsco.co/mubashirr-/gallery) & Graphic Designing
 <br>
