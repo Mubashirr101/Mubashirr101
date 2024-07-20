@@ -3,7 +3,7 @@
  I am Mubashir Shaikh
 
 - 🔧 Just working on my Data Analytical Skills.
-- 🧑🏻‍💻 I’m currently learning Machine Learning & Data Science.
+- 🧑🏻‍💻 Currently studying Machine Learning & Data Science.
 - 📫 How to reach me: Follow me on [Twitter](https://x.com/skmubashirrr)
  or [Mail](mailto:mubashirshaikh1666@gmail.com) me.
 <br>
