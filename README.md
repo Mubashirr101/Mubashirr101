@@ -2,8 +2,8 @@
  
  I am Mubashir Shaikh
 
-- 🔧 Just working on my Data Analytical Skills.
-- 🧑🏻‍💻 Currently studying Machine Learning & Data Science.
+- 🔧 Just working on my Machine Learning Skills.
+- 🧑🏻‍💻 Currently studying MLOPs for smoother sailing in my Data Science journey.
 - 📫 How to reach me: Follow me on [Twitter](https://x.com/skmubashirrr)
  or [Mail](mailto:mubashirshaikh1666@gmail.com) me.
 <br>
