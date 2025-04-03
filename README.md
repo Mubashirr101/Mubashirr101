@@ -10,8 +10,20 @@
 
 Current Projects:
 
-- **[Mtrac](https://github.com/Mubashirr101/Movie-Tracker)** - *A media consumption tracker*🎬📺🍿
-- **[The Automator](https://github.com/Mubashirr101/The_Automator)** - *A tool for automating data analysis workflow* 📈🔬💡
+- 🍿 **[Mtrac](https://github.com/Mubashirr101/Movie-Tracker)** - *A media consumption tracker* 
+- 🔬 **[The Automator](https://github.com/Mubashirr101/The_Automator)** - *A tool for automating data analysis workflow*
+
+
+Completed Projects:
+
+- 🔐 **[SecureCipher](https://github.com/Mubashirr101/SecureCipher)** - *An Advanced Cyber-Security Software & Toolkit*
+- 💵 **[Loan Approval Pred](https://github.com/Mubashirr101/Loan-Approval-Prediction-Model)** - *An ML model for checking loan eligibility*
+- 🌙 **[NightWinds Cipher](https://github.com/Mubashirr101/NightWinds_Cipher)** - *A plug-n-play & lightweight version of SecureCipher*
+- 🏪 **[Coffee Shop](https://github.com/Mubashirr101/coffeeshop)** - *A basic website intended for an imaginary little coffee shop*
+- 📝 **[To-Do List App](https://github.com/Mubashirr101/To-Do-List)** - *A To-Do list desktop application*
+
+and more...
+
 <br>
 <h2>Skills💡</h2>
 <div>
