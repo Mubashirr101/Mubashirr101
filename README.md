@@ -17,7 +17,7 @@ Current Projects:
 Completed Projects:
 
 - 🔐 **[SecureCipher](https://github.com/Mubashirr101/SecureCipher)** - *An Advanced Cyber-Security Software & Toolkit*
-- 💵 **[Loan Approval Pred](https://github.com/Mubashirr101/Loan-Approval-Prediction-Model)** - *An ML model for checking loan eligibility*
+- 💵 **[Loan Approval Prediction](https://github.com/Mubashirr101/Loan-Approval-Prediction-Model)** - *An ML model for checking loan eligibility*
 - 🌙 **[NightWinds Cipher](https://github.com/Mubashirr101/NightWinds_Cipher)** - *A plug-n-play & lightweight version of SecureCipher*
 - 🏪 **[Coffee Shop](https://github.com/Mubashirr101/coffeeshop)** - *A basic website intended for an imaginary little coffee shop*
 - 📝 **[To-Do List App](https://github.com/Mubashirr101/To-Do-List)** - *A To-Do list desktop application*
