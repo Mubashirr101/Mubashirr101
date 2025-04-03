@@ -6,6 +6,11 @@
 - 🧑🏻‍💻 Currently studying ML & DL for smoother sailing in my GenAI development journey.
 - 📫 How to reach me: Follow me on [Twitter](https://x.com/skmubashirrr)
  or [Mail](mailto:mubashirshaikh1666@gmail.com) me.
+
+
+Current Project:
+
+- **[Mtrac](https://github.com/Mubashirr101/Movie-Tracker)** - *A media consumption tracker*🎬📺🍿
 <br>
 <h2>Skills💡</h2>
 <div>
