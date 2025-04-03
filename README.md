@@ -8,9 +8,10 @@
  or [Mail](mailto:mubashirshaikh1666@gmail.com) me.
 
 
-Current Project:
+Current Projects:
 
 - **[Mtrac](https://github.com/Mubashirr101/Movie-Tracker)** - *A media consumption tracker*🎬📺🍿
+- **[The Automator](https://github.com/Mubashirr101/The_Automator)** - *A tool for automating data analysis workflow* 📈🔬💡
 <br>
 <h2>Skills💡</h2>
 <div>
