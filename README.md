@@ -10,6 +10,7 @@
 
 Current Projects:
 
+- 🪪 **[EyeDentify](https://github.com/Mubashirr101/EyeDentify)** - *A face authentication web app powered by deep learning*
 - 🍿 **[Mtrac](https://github.com/Mubashirr101/Movie-Tracker)** - *A media consumption tracker* 
 - 🔬 **[The Automator](https://github.com/Mubashirr101/The_Automator)** - *A tool for automating data analysis workflow*
 
