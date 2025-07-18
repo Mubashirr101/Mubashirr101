@@ -3,6 +3,7 @@
  I am Mubashir Shaikh
 
 - 🔧 Just working on my Machine Learning Skills.
+- ⚙️ Mastering best MLOPs tools and practices for efficient data & model pipelining.
 - 🧑🏻‍💻 Currently studying ML & DL for smoother sailing in my GenAI development journey.
 - 📫 How to reach me: Follow me on [Twitter](https://x.com/skmubashirrr)
  or [Mail](mailto:mubashirshaikh1666@gmail.com) me.
