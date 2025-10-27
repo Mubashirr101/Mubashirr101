@@ -10,8 +10,8 @@
 
 
 Current Projects:
-
-- 🍿 **[Mtrac](https://github.com/Mubashirr101/Movie-Tracker)** - *A media consumption tracker* 
+- ⌚ **[Athlete Tracker & Coach](https://github.com/Mubashirr101/Wearable-data-analysis)** - *A fitness & vitals dashboard for smart wearables*
+- 🍿 **[Mtrac](https://github.com/Mubashirr101/Movie-Tracker)** - *A multimedia consumption tracker* 
 - 🔬 **[The Automator](https://github.com/Mubashirr101/The_Automator)** - *A tool for automating data analysis workflow*
 
 
