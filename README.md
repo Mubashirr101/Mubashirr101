@@ -26,8 +26,8 @@ Completed Projects:
 and more...
 
 <br>
-<h2>Skills💡</h2>
-<div>
+<!--- <h2>Skills💡</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -69,7 +69,7 @@ and more...
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </a>
   </p>
-</div>
+</div> --->
     
 
 <br>
