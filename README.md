@@ -10,13 +10,12 @@
 
 
 Current Projects:
-- ⌚ **[Athlete Tracker & Coach](https://github.com/Mubashirr101/Wearable-data-analysis)** - *A fitness & vitals dashboard for smart wearables*
 - 🍿 **[Mtrac](https://github.com/Mubashirr101/Movie-Tracker)** - *A multimedia consumption tracker* 
 - 🔬 **[The Automator](https://github.com/Mubashirr101/The_Automator)** - *A tool for automating data analysis workflow*
 
 
 Completed Projects:
-
+- ⌚ **[Athlete Tracker & Coach](https://github.com/Mubashirr101/Wearable-data-analysis)** - *A fitness & vitals dashboard for smart wearables with ETL pipelining*
 - 🔎 **[EyeDentify](https://github.com/Mubashirr101/EyeDentify)** - *A facial authentication web app powered by computer vision & deep learning*
 - 🔐 **[SecureCipher](https://github.com/Mubashirr101/SecureCipher)** - *An Advanced Cyber-Security Software & Toolkit*
 - 💵 **[Loan Approval Prediction](https://github.com/Mubashirr101/Loan-Approval-Prediction-Model)** - *An ML model for checking loan eligibility*
