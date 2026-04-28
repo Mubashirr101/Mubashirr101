@@ -1,6 +1,6 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
  
- I am Mubashir Shaikh
+ I am [Mubashir Shaikh](https://mubashirshaikh.netlify.app/)
 
 - 🔧 Just working on my Machine Learning Skills.
 - ⚙️ Mastering best MLOPs tools and practices for efficient data & model pipelining.
