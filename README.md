@@ -15,6 +15,7 @@ Current Projects:
 
 Completed Projects:
 - ⌚ **[Athlete Tracker & Coach](https://github.com/Mubashirr101/Wearable-data-analysis)** - *A fitness & vitals dashboard for smart wearables with ETL pipelining*
+- 📦 **[Data Analyst Job Market Analysis](https://github.com/Mubashirr101/SQL-project)** - *A PostgreSQL project exploring the 2023 data analyst job market*
 - 🔎 **[EyeDentify](https://github.com/Mubashirr101/EyeDentify)** - *A facial authentication web app powered by computer vision & deep learning*
 - 🔐 **[SecureCipher](https://github.com/Mubashirr101/SecureCipher)** - *An Advanced Cyber-Security Software & Toolkit*
 - 💵 **[Loan Approval Prediction](https://github.com/Mubashirr101/Loan-Approval-Prediction-Model)** - *An ML model for checking loan eligibility*
