@@ -2,14 +2,13 @@
  
  I am [Mubashir Shaikh](https://www.mubashirshaikh.com/)
 
-- 🔧 Just working on my Machine Learning Skills.
+- 🔧 Just working on my Machine Learning & Visualization Skills.
+- 📊 Designing dashboards and reports for maximum insights and pattern recognition.
 - ⚙️ Mastering best MLOPs tools and practices for efficient data & model pipelining.
-- 🧑🏻‍💻 Currently studying ML & DL for smoother sailing in my GenAI development journey.
 - 📫 How to reach me: [Mail](mailto:mubashirshaikh1666@gmail.com) me.
 
 
 Current Projects:
-- 🍿 **[Mtrac](https://github.com/Mubashirr101/Movie-Tracker)** - *A multimedia consumption tracker* 
 - 🔬 **[The Automator](https://github.com/Mubashirr101/The_Automator)** - *A tool for automating data analysis workflow*
 
 
