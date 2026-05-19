@@ -5,7 +5,7 @@
 - 🔧 Just working on my Machine Learning & Visualization Skills.
 - 📊 Designing dashboards and reports for maximum insights and pattern recognition.
 - ⚙️ Mastering best MLOPs tools and practices for efficient data & model pipelining.
-- 📫 How to reach me: [Mail](mailto:mubashirshaikh1666@gmail.com) me.
+- 📫 How to reach me: [Mail](mailto:mubashirshaikh1666@gmail.com) me or visit my [website](https://www.mubashirshaikh.com/) for all my socials.
 
 
 Current Projects:
