@@ -13,6 +13,7 @@ Current Projects:
 
 
 Completed Projects:
+- 🌐 **[www.mubashirshaikh.com](https://github.com/Mubashirr101/portfolio-website)** - *A portfolio website*
 - 💰 **[Personal Finance Dashboard](https://github.com/Mubashirr101/Personal-Finance-Dashboard)** - *A 5-page interactive Power BI report for end-to-end personal finance tracking.*
 - ⌚ **[AthleteX](https://github.com/Mubashirr101/AthleteX)** - *A fitness & vitals tracking app for smart watches with ETL pipelining + LLM powered coach*
 - 📦 **[Data Analyst Job Market Analysis](https://github.com/Mubashirr101/SQL-project)** - *A PostgreSQL project exploring the 2023 data analyst job market*
