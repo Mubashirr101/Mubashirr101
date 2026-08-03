@@ -13,6 +13,7 @@ Current Projects:
 
 
 Completed Projects:
+- ✒️ **[notes.mubashirshaikh.com](https://github.com/Mubashirr101/obsidian-quartz)** - *My compiled knowledge vault*
 - 🌐 **[www.mubashirshaikh.com](https://github.com/Mubashirr101/portfolio-website)** - *A portfolio website*
 - 💰 **[Personal Finance Dashboard](https://github.com/Mubashirr101/Personal-Finance-Dashboard)** - *A 5-page interactive Power BI report for end-to-end personal finance tracking.*
 - ⌚ **[AthleteX](https://github.com/Mubashirr101/AthleteX)** - *A fitness & vitals tracking app for smart watches with ETL pipelining + LLM powered coach*
